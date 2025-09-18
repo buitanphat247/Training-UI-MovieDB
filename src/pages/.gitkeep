@@ -1,0 +1,5 @@
+touch src/components/.gitkeep
+touch src/pages/.gitkeep
+touch src/config/.gitkeep
+touch src/layouts/.gitkeep
+touch src/utils/.gitkeep
