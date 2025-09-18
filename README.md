@@ -83,6 +83,28 @@ File build sẽ được tạo trong thư mục `dist/`.
 npm run preview
 ```
 
+## 👥 Làm việc nhóm
+
+### 📚 Tài liệu hướng dẫn Git & GitHub
+Để làm việc hiệu quả trong team, vui lòng đọc kỹ tài liệu hướng dẫn:
+
+**[📖 GitHub Workflow Team Guide](./GITHUB_WORKFLOW.md)**
+
+Tài liệu này bao gồm:
+- ✅ Quy trình Git cơ bản cho team
+- ✅ Cách tạo và quản lý nhánh tính năng
+- ✅ Hướng dẫn Pull Request và Code Review
+- ✅ Giải quyết xung đột merge
+- ✅ Quy tắc đặt tên và commit message
+- ✅ Best practices cho làm việc nhóm
+
+### 🚀 Bắt đầu làm việc
+1. **Đọc tài liệu**: Xem kỹ [GitHub Workflow Guide](./GITHUB_WORKFLOW.md)
+2. **Tạo nhánh mới**: `git checkout -b feature/tên-tính-năng`
+3. **Làm việc và commit**: Theo quy tắc trong tài liệu
+4. **Tạo Pull Request**: Để team review code
+5. **Merge sau khi approve**: Hoàn thành tính năng
+
 ## 🤝 Đóng góp
 
 1. Fork dự án
